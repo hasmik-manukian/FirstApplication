@@ -1,0 +1,12 @@
+C:\Users\User\RiderProjects\NanikApplication\NanikApplication\bin\Debug\NanikApplication.exe
+C:\Users\User\RiderProjects\NanikApplication\NanikApplication\bin\Debug\NanikApplication.pdb
+C:\Users\User\RiderProjects\NanikApplication\NanikApplication\obj\Debug\NanikApplication.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\NanikApplication\NanikApplication\obj\Debug\NanikApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\NanikApplication\NanikApplication\obj\Debug\NanikApplication.exe
+C:\Users\User\RiderProjects\NanikApplication\NanikApplication\obj\Debug\NanikApplication.pdb
+C:\Users\User\Documents\development\NanikApplication\NanikApplication\obj\Debug\NanikApplication.csprojAssemblyReference.cache
+C:\Users\User\Documents\development\NanikApplication\NanikApplication\obj\Debug\NanikApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\development\NanikApplication\NanikApplication\obj\Debug\NanikApplication.exe
+C:\Users\User\Documents\development\NanikApplication\NanikApplication\obj\Debug\NanikApplication.pdb
+C:\Users\User\Documents\development\NanikApplication\NanikApplication\bin\Debug\NanikApplication.exe
+C:\Users\User\Documents\development\NanikApplication\NanikApplication\bin\Debug\NanikApplication.pdb
